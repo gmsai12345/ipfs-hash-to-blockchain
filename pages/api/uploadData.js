@@ -1,6 +1,6 @@
 import {Web3Storage, getFilesFromPath } from 'web3.storage';
 const {ethers} = require('ethers');
-import * as Constants from "../constant";
+import * as Constants from "../../utils/constant";
 import formidable from 'formidable';
 import path from 'path';
 
